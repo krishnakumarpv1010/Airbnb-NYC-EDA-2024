@@ -1,5 +1,5 @@
 # 📊 New York Airbnb 2024 - Exploratory Data Analysis (EDA) using Python  
-![image](
+![image](https://github.com/krishnakumarpv1010/Airbnb-NYC-EDA-2024/blob/main/download.jpeg?raw=true)
 
 ## 📌 Project Overview  
 This project focuses on **Exploratory Data Analysis (EDA)** of the **New York Airbnb Open Data 2024** using Python.  
